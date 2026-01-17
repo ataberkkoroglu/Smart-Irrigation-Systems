@@ -1,0 +1,13 @@
+../Core/Src/main.c:84:6:delay_us	2
+../Core/Src/main.c:91:6:DHT11_Pin_Output	1
+../Core/Src/main.c:102:6:DHT11_Pin_Input	1
+../Core/Src/main.c:112:9:DHT11_Read	13
+../Core/Src/main.c:180:5:main	5
+../Core/Src/main.c:322:6:SystemClock_Config	3
+../Core/Src/main.c:369:13:MX_ADC1_Init	5
+../Core/Src/main.c:447:13:MX_ADC2_Init	3
+../Core/Src/main.c:506:13:MX_TIM1_Init	4
+../Core/Src/main.c:553:13:MX_UART4_Init	5
+../Core/Src/main.c:601:13:MX_GPIO_Init	1
+../Core/Src/main.c:637:6:HAL_UART_RxCpltCallback	10
+../Core/Src/main.c:673:6:Error_Handler	1
